@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 276px;
+    height: 276px;
+}
+
+p {
+    text-align: center;
+    font-weight: 700;
+}
+
+a {
+    display: block;
+}
